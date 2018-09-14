@@ -24,5 +24,8 @@ public class SecondProgram {
         } else {
             System.out.println("false");
         }
+
+        System.out.println("" + p1.equals(p2));
+        System.out.println(p2);
     }
 }
